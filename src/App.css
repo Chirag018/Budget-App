@@ -1,0 +1,36 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button button{
+   /* padding: 10px; */
+   margin: 1px;
+}
+
+.budgetCard{
+    border: 2px solid;
+    width: 30rem;
+
+}
+
+.budget-card-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer-buttons button{
+   margin: 1px;
+}
