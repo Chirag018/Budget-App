@@ -1,6 +1,6 @@
 {
   "name": "budget-app",
-  "homepage": "https://github.com/Chirag018/Budget-App",
+  "homepage": "https://Chirag018.github.io/Budget-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +20,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
